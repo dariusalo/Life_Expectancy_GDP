@@ -6,7 +6,7 @@
 
 An exploratory data analysis examining whether wealth drives longer lives 
 
-and how that relationship has evolved since 1950 (the average life expectancy being about 70 years globally and 1950's being 70 years ago.
+and how that relationship has evolved since 1950 (the average life expectancy being about 70 years globally and 1950's being 70 years ago.)
 
 
 
